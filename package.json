@@ -5,6 +5,10 @@
   "repository": "git@github.com:zerdos/cypress-parallel-tests.git",
   "author": "Zoltan Erdos <zolika84@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "echo build",
+    "start": "echo start"
+  },
   "dependencies": {
     "cypress": "^8.4.1"
   }
